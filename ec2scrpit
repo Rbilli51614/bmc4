@@ -24,16 +24,16 @@ echo "
 <!doctype html>
 <html lang=\"en\" class=\"h-100\">
 <head>
-<title>Details for EC2 instance</title>
+<title>Can you handle it?</title>
 </head>
 <body>
 <div>
-<h1>AWS Instance Details</h1>
-<h1>Samurai Katana</h1>
+<h1>The Jiggle is Real!</h1>
+<h1></h1>
 
 <br>
 # insert an image or GIF
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<img src="https://media.tenor.com/_hJhq4qFukwAAAAM/are-you-ready-for-that-jiggle-lizzo.gif">
 <br>
 
 <p><b>Instance Name:</b> $(hostname -f) </p>
